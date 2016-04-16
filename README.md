@@ -7,9 +7,12 @@ Figured this out when I started playing with [Box-256](http://box-256.com/) than
 ###Future
 _Some with commitable resources, some not.  These are more investigation avenues for myself_
 
- * [TIS-100](http://www.zachtronics.com/tis-100/)
-[Rocky's Boots](https://en.wikipedia.org/wiki/Rocky's_Boots) -> [Analysis](http://www.slate.com/articles/technology/bitwise/2014/01/robot_odyssey_the_hardest_computer_game_of_all_time.html) | [RoboFarmBot](http://www.worfc.com/)
-* [Robot Odyssey](https://en.wikipedia.org/wiki/Robot_Odyssey) -> [Analysis](http://www.slate.com/articles/technology/bitwise/2014/01/robot_odyssey_the_hardest_computer_game_of_all_time.html) | [RoboFarmBot](http://www.worfc.com/)
+
+* [TIS-100](http://www.zachtronics.com/tis-100/)
+* [Rockys Boots Games](http://www.slate.com/articles/technology/bitwise/2014/01/robot_odyssey_the_hardest_computer_game_of_all_time.html)
+ * [Rocky's Boots](https://en.wikipedia.org/wiki/Rocky's_Boots)
+ * [Robot Odyssey](https://en.wikipedia.org/wiki/Robot_Odyssey)
+ * [RoboFarmBot](http://www.worfc.com/) Based on the  [Rocky's Boots](https://en.wikipedia.org/wiki/Rocky's_Boots) games
 * [Human Resource Machine](http://tomorrowcorporation.com/humanresourcemachine)
 * [Stockfighter](https://www.stockfighter.io/)
 * [Code Combat](http://codecombat.com/)
