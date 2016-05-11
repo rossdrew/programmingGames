@@ -16,6 +16,7 @@ _Some with commitable resources, some not.  These are more investigation avenues
 * [Human Resource Machine](http://tomorrowcorporation.com/humanresourcemachine)
 * [Stockfighter](https://www.stockfighter.io/)
 * [Code Combat](http://codecombat.com/)
+* [Fight Code](http://fightcodegame.com/)
 * [CodinGame](https://www.codingame.com/)
 * [Core War](https://en.wikipedia.org/wiki/Core_War)
 * [Code Master Board Game](http://www.thinkfun.com/products/code-master/)
